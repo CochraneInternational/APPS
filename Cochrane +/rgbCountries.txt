@@ -1,0 +1,166 @@
+7 20 96 : United States
+98 37 0 : Canada
+192 116 144 : Mexico
+97 16 96 : Belize
+9 80 80 : Guatemala
+162 51 80 : El Salvador
+84 210 48 : Honduras
+74 48 48 : Nicaragua
+85 25 32 : Costa Rica
+64 209 0 : Panama
+64 102 160 : Greenland
+69 13 80 : Colombia
+83 34 112 : Venezuela
+162 87 128 : Guyana
+1 33 80 : Suriname
+18 81 64 : French Guiana
+149 64 112 : Ecuador
+48 53 48 : Peru
+59 22 32 : Brazil
+65 80 96 : Bolivia
+65 180 16 : Paraguay
+3 23 0 : Chile
+119 12 96 : Argentina
+23 113 48 : Uruguay
+53 6 160 : Morocco
+0 49 16 : Algeria
+117 84 16 : Tunisia
+241 22 64 : Libya
+33 84 0 : Egypt
+78 249 240 : Western Sahara
+158 185 224 : Mauritania
+140 200 128 : Mali
+132 153 144 : Niger
+202 153 128 : Chad
+232 45 192 : Sudan
+138 157 80 : Eritrea
+141 195 144 : Djibouti
+234 236 160 : Ethiopia
+122 143 96 : Somalia
+254 252 208 : Kenya
+215 153 160 : Uganda
+107 250 224 : Senegal
+185 44 192 : Gambia
+228 222 144 : Guinea Bissau
+152 143 192 : Guinea
+255 63 192 : Sierra Leons
+158 155 224 : Liberia
+203 180 224 : Côte d'Ivoire
+152 190 192 : Ghana
+203 253 80 : Togo
+70 23 112 : Benin
+18 82 0 : Nigeria
+6 99 224 : Cameroon
+114 37 96 : Equatorial Guinea
+99 80 96 : Gabon
+179 70 0 : Congo
+21 35 32 : Democratic Republic of Congo
+46 17 96 : Rwanda
+21 87 208 : Burundi
+223 79 176 : Tarzania
+222 234 96 : Angola
+205 137 192 : Zambia
+202 232 224 : Malawi
+58 191 160 : Mozambique
+221 171 192 : Namibia
+199 220 128 : Zimbabwe
+172 170 144 : Botswana
+250 79 176 : South Africa
+205 232 208 : Swaziland
+140 135 240 : Lesotho
+219 223 224 : Madagascar
+173 174 32 : Burkina Faso
+187 232 176 : Central African Republic
+254 233 176 : Iceland
+201 249 144 : Portugal
+252 175 128 : Spain
+203 159 160 : France
+191 142 240 : Belgium
+205 159 240 : Netherlands
+155 191 224 : Germany
+233 171 176 : Switzerland
+172 206 224 : Italy
+186 235 176 : Poland
+156 250 208 : Czech Republic
+238 158 128 : Austria
+234 136 112 : Slovakia
+191 237 128 : Hungary
+252 249 240 : Slovenia
+7 80 32 : Croatia
+5 34 48 : Bosnia and Herzegovina
+113 84 32 : Montenegro
+247 48 0 : Albania
+55 22 112 : Greece
+30 3 48 : Serbia
+36 72 16 : Macedonia
+55 147 96 : Bulgaria
+55 97 160 : Romia
+48 121 0 : Moldova
+21 50 64 : Ukraine
+180 38 128 : Belarus
+184 186 208 : Lithuania
+240 233 224 : Latvia
+141 157 0 : Estonia
+233 236 144 : Finland
+250 172 192 : Sweden
+75 141 144 : Norway
+239 156 160 : United Kingdom
+193 220 240 : Ireland
+234 204 96 : Denmark
+33 166 16 : Russia
+101 70 160 : Kazakhstan
+35 51 32 : Azerbaijan
+113 116 16 : Georgia
+151 81 48 : Turkey
+53 65 64 : Armenia
+64 99 96 : Syria
+116 86 96 : Lebanon
+101 72 224 : Israel
+207 237 240 : Jordan
+175 246 160 : Iraq
+153 40 208 : Kuwait
+173 153 48 : United Arab Emirates
+220 246 176 : Saudi Arabia
+205 205 240 : Yemen
+72 206 0 : Oman
+202 152 224 : Bahrain
+209 175 208 : Qatar
+47 155 192 : Iran
+233 43 208 : Terkmenistan
+243 7 80 : Uzbekistan
+68 91 80 : Kyrgyzstan
+50 67 112 : Tajikistan
+106 2 80 : Afghanistan
+85 0 112 : Pakistan
+34 213 0 : India
+51 103 224 : Nepal
+117 44 80 : Bhutan
+51 19 48 : Bangladesh
+193 113 128 : Burma
+100 71 112 : Thailand
+27 119 16 : Laos
+197 65 112 : Cambodia
+118 129 32 : Vietnam
+13 54 112 : China
+48 8 112 : South Korea
+1 231 48 : North Korea
+81 4 224 : Mongolia
+190 182 224 : Sri Lanka
+202 157 176 : Australia
+222 191 160 : Malaysia
+53 23 64 : Singapore
+99 53 16 : Brunei
+230 80 192 : Indonesia
+54 164 80 : East Timor
+26 102 80 : Papua New Guinea
+197 92 48 : Soloman Islands
+18 179 48 : Philippines
+125 53 208 : Tiawan
+87 63 96 : Japan
+84 226 64 : New Zealand
+208 116 224 : Cuba
+20 89 32 : The Bahamas
+84 33 16 : Jamaica
+144 115 224 : Haiti
+101 114 32 : Dominican Republic
+62 22 64 : Puerto Rico

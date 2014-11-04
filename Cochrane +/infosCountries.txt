@@ -1,0 +1,166 @@
+160 137 208 : United States bounds : 240_151.5
+236 204 128 : Canada bounds : 335.5_92.5
+158 126 208 : Mexico bounds : 228.5_257
+140 235 96 : Belize bounds : 273.5_285.5
+153 246 240 : Guatemala bounds : 265_292.5
+255 154 208 : El Salvador bounds : 270.5_301
+44 206 80 : Honduras bounds : 281.5_298.5
+205 250 240 : Nicaragua bounds : 284_306.5
+176 187 208 : Costa Rica bounds : 287.5_320
+127 220 192 : Panama bounds : 305_326
+156 127 208 : Greenland bounds : 538.5_53.5
+181 186 144 : Colombia bounds : 332.5_346.5
+188 200 176 : Venezuela bounds : 361_336
+204 120 240 : Guyana bounds : 391.5_342.5
+238 185 240 : Suriname bounds : 403.5_346.5
+141 177 240 : French Guiana bounds : 415.5_346.5
+218 168 176 : Ecuador bounds : 312_372
+138 232 96 : Peru bounds : 326.5_407
+116 52 32 : Brazil bounds : 412_428
+50 37 112 : Bolivia bounds : 376_438
+34 53 224 : Paraguay bounds : 400_469.5
+19 113 48 : Chile bounds : 377_529
+54 55 80 : Argentina bounds : 389.5_538
+245 114 16 : Uruguay bounds : 419_511
+118 81 32 : Morocco bounds : 610_221
+111 50 80 : Algeria bounds : 645_237.5
+16 51 176 : Tunisia bounds : 677_211
+204 76 176 : Libya bounds : 707.5_245
+222 171 64 : Egypt bounds : 761_243.5
+187 220 208 : Western Sahara bounds : 586.5_253.5
+223 136 128 : Mauritania bounds : 592.5_270
+126 173 176 : Mali bounds : 620.5_284.5
+234 254 192 : Niger bounds : 670_284
+226 174 208 : Chad bounds : 714_295
+190 233 176 : Sudan bounds : 762_304
+236 61 144 : Eritrea bounds : 801.5_296
+159 191 208 : Djibouti bounds : 813_312
+233 146 160 : Ethiopia bounds : 804.5_323.5
+152 202 176 : Somalia bounds : 828_341
+220 232 32 : Kenya bounds : 794_364
+143 188 208 : Uganda bounds : 771.5_359
+217 158 128 : Senegal bounds : 578.5_298.5
+206 204 208 : Gambia bounds : 574.5_302
+250 250 128 : Guinea Bissau bounds : 575.5_310
+155 153 160 : Guinea bounds : 590_319.5
+172 254 224 : Sierra Leons bounds : 588_326
+232 185 208 : Liberia bounds : 597_334.5
+171 171 160 : Côte d'Ivoire bounds : 613.5_330.5
+251 152 128 : Ghana bounds : 632.5_328.5
+233 154 224 : Togo bounds : 640.5_325.5
+254 154 160 : Benin bounds : 646.5_322.5
+255 250 176 : Nigeria bounds : 673_322.5
+235 139 160 : Cameroon bounds : 688.5_332.5
+173 157 48 : Equatorial Guinea bounds : 678_353.5
+139 153 192 : Gabon bounds : 686_368
+218 138 224 : Congo bounds : 699.5_368.5
+23 2 16 : Democratic Republic of Congo bounds : 727_382.5
+6 36 80 : Rwanda bounds : 761.5_373.5
+4 0 0 : Burundi bounds : 761_380
+178 3 64 : Tarzania bounds : 782_393
+20 1 112 : Angola bounds : 711.5_416
+110 80 96 : Zambia bounds : 751.5_423
+80 42 16 : Malawi bounds : 779_423.5
+33 198 16 : Mozambique bounds : 783_449.5
+117 85 192 : Namibia bounds : 713.5_468.5
+84 46 64 : Zimbabwe bounds : 758_450.5
+39 65 32 : Botswana bounds : 737.5_465.5
+160 112 160 : South Africa bounds : 737.5_493
+223 232 192 : Swaziland bounds : 765.5_485
+176 170 192 : Lesotho bounds : 751_498.5
+239 236 112 : Madagascar bounds : 829_450.5
+251 191 240 : Burkina Faso bounds : 630.5_308.5
+251 205 160 : Central African Republic bounds : 723.5_333.5
+93 233 128 : Iceland bounds : 589_77.5
+236 253 208 : Portugal bounds : 610.5_185
+129 218 224 : Spain bounds : 632_183.5
+141 152 16 : France bounds : 651.5_155.5
+118 183 32 : Belgium bounds : 659.5_137.5
+86 66 208 : Netherlands bounds : 662.5_129
+21 34 64 : Germany bounds : 680.5_134.5
+117 119 112 : Switzerland bounds : 673_153.5
+213 70 48 : Italy bounds : 689_175.5
+80 83 80 : Poland bounds : 711.5_130.5
+49 37 64 : Czech Republic bounds : 698_140
+34 51 48 : Austria bounds : 694_149.5
+66 42 144 : Slovakia bounds : 714.5_144.5
+190 185 240 : Hungary bounds : 713_151.5
+172 150 160 : Slovenia bounds : 696.5_156.5
+152 120 176 : Croatia bounds : 702.5_162
+232 252 32 : Bosnia and Herzegovina bounds : 707.5_165.5
+152 210 128 : Montenegro bounds : 713.5_172
+223 206 160 : Albania bounds : 717_179
+111 237 16 : Greece bounds : 745.5_193
+155 143 208 : Serbia bounds : 719.5_165.5
+199 205 128 : Macedonia bounds : 723.5_176.5
+72 217 160 : Bulgaria bounds : 736_171
+250 25 160 : Romia bounds : 733.5_157.5
+161 116 64 : Moldova bounds : 746_153
+119 40 32 : Ukraine bounds : 756_146
+69 117 0 : Belarus bounds : 741_123
+57 97 16 : Lithuania bounds : 727.5_118
+0 1 112 : Latvia bounds : 728.5_110.5
+49 214 64 : Estonia bounds : 728.5_102.5
+53 113 192 : Finland bounds : 731_76.5
+86 24 16 : Sweden bounds : 701_88
+116 7 112 : Norway bounds : 702_64.5
+150 116 160 : United Kingdom bounds : 632.5_121.5
+116 114 16 : Ireland bounds : 615_125.5
+41 21 32 : Denmark bounds : 680_113
+150 118 48 : Russia bounds : 988.5_98.5
+99 212 48 : Kazakhstan bounds : 886_148
+13 0 48 : Azerbaijan bounds : 820_182.5
+101 27 48 : Georgia bounds : 804.5_173
+117 228 32 : Turkey bounds : 776.5_188
+70 23 224 : Armenia bounds : 812.5_182
+253 144 240 : Syria bounds : 791.5_207.5
+184 237 176 : Lebanon bounds : 781_211.5
+202 232 208 : Israel bounds : 778_223.5
+84 0 48 : Jordan bounds : 787.5_223.5
+114 50 16 : Iraq bounds : 813_214
+199 51 176 : Kuwait bounds : 828.5_231.5
+17 208 16 : United Arab Emirates bounds : 857_254
+42 86 32 : Saudi Arabia bounds : 822_253.5
+160 46 64 : Yemen bounds : 835_293
+52 181 0 : Oman bounds : 866.5_271
+27 32 240 : Bahrain bounds : 841.5_247.5
+23 57 96 : Qatar bounds : 844_248
+50 192 0 : Iran bounds : 851_218.5
+212 7 160 : Terkmenistan bounds : 869.5_188
+69 27 32 : Uzbekistan bounds : 884_178
+100 119 112 : Kyrgyzstan bounds : 925.5_178.5
+194 119 224 : Tajikistan bounds : 915_188.5
+52 102 32 : Afghanistan bounds : 903.5_211
+45 115 80 : Pakistan bounds : 913.5_227
+163 71 48 : India bounds : 973_265.5
+53 188 224 : Nepal bounds : 977_236.5
+244 205 128 : Bhutan bounds : 1002.5_240.5
+141 191 176 : Bangladesh bounds : 1007_257
+202 238 192 : Burma bounds : 1031_278
+139 159 240 : Thailand bounds : 1055.5_305
+219 223 128 : Laos bounds : 1064_282
+220 171 176 : Cambodia bounds : 1071.5_308.5
+220 152 240 : Vietnam bounds : 1072.5_292.5
+217 201 192 : China bounds : 1030.5_203
+185 48 16 : South Korea bounds : 1138.5_200
+71 97 64 : North Korea bounds : 1127_183
+33 211 64 : Mongolia bounds : 1022.5_153.5
+44 32 64 : Sri Lanka bounds : 973_329.5
+116 90 16 : Australia bounds : 1175_489
+100 178 48 : Malaysia bounds : 1092.5_348
+2 112 192 : Singapore bounds : 1068.5_356
+1 43 32 : Brunei bounds : 1114_342.5
+83 118 96 : Indonesia bounds : 1128.5_375.5
+209 69 112 : East Timor bounds : 1160_405
+6 3 48 : Papua New Guinea bounds : 1253_396
+123 16 64 : Soloman Islands bounds : 1294_405.5
+0 70 96 : Philippines bounds : 1143.5_310
+116 166 16 : Tiawan bounds : 1129.5_257.5
+83 80 48 : Japan bounds : 1171_191.5
+36 18 64 : New Zealand bounds : 1295.5_549
+20 22 64 : Cuba bounds : 313.5_267
+115 52 80 : The Bahamas bounds : 327_254
+7 54 64 : Jamaica bounds : 319_281.5
+64 71 96 : Haiti bounds : 337.5_279
+53 34 80 : Dominican Republic bounds : 350.5_278.5
+51 100 48 : Puerto Rico bounds : 363_281.5
